@@ -64,7 +64,7 @@
 	},
 	{
 		"id" : 8,
-		"name" : "Llightning McQueen Crocs",
+		"name" : "Lightning McQueen Crocs",
 		"brand" : "other",
 		"type" : "shoes",
 		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01gnaqQW257R2ihsAhx_!!3362817479-0-cib.jpg",
@@ -655,5 +655,95 @@
 		"image_url" : "https://si.geilicdn.com/wdseller1386929838-6d850000017651c2eb9d0a217205-unadjust_1242_794.jpeg",
 		"product_link" : "https://hoobuy.cc/Z8MLVagE",
 		"price" : 44.51
+	},
+	{
+		"id" : 74,
+		"name" : "Trapstar Shirt and Shorts (sold seperate)",
+		"brand" : "trapstar",
+		"type" : "set",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01BycmkW1MRu1i0Qju8_!!2210988121432-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/6RelrxD8",
+		"price" : 7.12
+	},
+	{
+		"id" : 75,
+		"name" : "Bape Full Zip Hoodie (Size Up 2-3X)",
+		"brand" : "bape",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2933817106/O1CN01EB7kkV22Mazlt46WR_!!2933817106.jpg",
+		"product_link" : "https://hoobuy.cc/6XKN1rOR",
+		"price" : 20.03
+	},
+	{
+		"id" : 76,
+		"name" : "Kayne x CPFM I see Ghosts Hoodie",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://si.geilicdn.com/pcitem166177892-2a08000001741ea470130a21c2a8_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/2X6BmNGX",
+		"price" : 12.19
+	},
+	{
+		"id" : 77,
+		"name" : "Mini Swoosh Hoodie",
+		"brand" : "nike",
+		"type" : "hoodies",
+		"image_url" : "https://si.geilicdn.com/wdseller341093006-3f2800000180cbc212990a22d246_1242_1242.jpg",
+		"product_link" : "https://hoobuy.cc/7EjjGoWE",
+		"price" : 11.57
+	},
+	{
+		"id" : 78,
+		"name" : "Travis Scott x Jordan Cactus Jack Hoodie ",
+		"brand" : "nike",
+		"type" : "hoodies",
+		"image_url" : "https://thentwrk.com/cdn-cgi/image/width=640,fit=cover,quality=75,format=auto/https://cdn.shopify.com/s/files/1/0276/7909/6945/products/solestage_Travis-Scott-Jordan-Cactus-Jack-Highest-Hoodie-Olive-0-BH1DT2_b1d9885a-dbcb-43c1-a2fe-42b08b165dff.jpg?v=1692351284",
+		"product_link" : "https://hoobuy.cc/K8lB6oKX",
+		"price" : 17.51
+	},
+	{
+		"id" : 79,
+		"name" : "ASSC Hoodies (Lots of colorways)",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/3434595067/O1CN01o4apft1nIjQFCrIyC_!!3434595067.jpg",
+		"product_link" : "https://hoobuy.cc/NRdA3oyX",
+		"price" : 20.47
+	},
+	{
+		"id" : 80,
+		"name" : "Off White Hoodies (multiple styles)",
+		"brand" : "offwhite",
+		"type" : "hoodies",
+		"image_url" : "https://gw.alicdn.com/bao/uploaded/i3/2200659963755/O1CN01Hwdmmd1dbpqpPVxzz_!!2200659963755.jpg",
+		"product_link" : "https://hoobuy.cc/JEPq9rg8",
+		"price" : 12.61
+	},
+	{
+		"id" : 81,
+		"name" : "CDG Play Zip Hoodie",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/2019/857/691/12254196758_1646574665.jpg",
+		"product_link" : "https://hoobuy.cc/6Relrob8",
+		"price" : 20.77
+	},
+	{
+		"id" : 82,
+		"name" : "Hellstar Hoodie (budget)",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2075710764/O1CN01G0G0D41HVxQXeWUgy_!!2075710764.jpg",
+		"product_link" : "https://hoobuy.cc/mXY60JdE",
+		"price" : 11.87
+	},
+	{
+		"id" : 83,
+		"name" : "Essentials Hoodies (lots of colors)",
+		"brand" : "essentials",
+		"type" : "hoodies",
+		"image_url" : null,
+		"product_link" : "https://hoobuy.cc/rE09eNY8",
+		"price" : 11.57
 	}
 ]
