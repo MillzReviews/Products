@@ -745,5 +745,158 @@
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/1090806015/O1CN01VvUUc61uIv67v7Bj5_!!1090806015.jpg",
 		"product_link" : "https://hoobuy.cc/rE09eNY8",
 		"price" : 11.57
+	},
+	{
+		"id" : 84,
+		"name" : "Sp5der P!nk Hoodie (Pika)",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2153207958/O1CN01x4hC5s28eokr3iDa5_!!2153207958.jpg",
+		"product_link" : "https://hoobuy.cc/0R7YLNxE",
+		"price" : 19.58
+	},
+	{
+		"id" : 85,
+		"name" : "Givenchy Ripped Hoodie",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/imgextra/i3/2211559740455/O1CN01gcgUO61FER05TqFZh_!!0-item_pic.jpg",
+		"product_link" : "https://hoobuy.cc/K8WGYm68",
+		"price" : 44.36
+	},
+	{
+		"id" : 86,
+		"name" : "Destroy Lonely Cat Hoodie",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://gw.alicdn.com/bao/uploaded/i1/691060629/O1CN017VZPFF1GW7xapLZFk_!!691060629.jpg",
+		"product_link" : "https://hoobuy.cc/PR3D0qrX",
+		"price" : 24.63
+	},
+	{
+		"id" : 87,
+		"name" : "Swoosh Vintage Sweater",
+		"brand" : "Nike",
+		"type" : "sweaters",
+		"image_url" : "https://si.geilicdn.com/wdseller341093006-1dc7000001804b118bcd0a20e7c7_750_750.jpg",
+		"product_link" : "https://hoobuy.cc/5EAxo6YX",
+		"price" : 10.09
+	},
+	{
+		"id" : 88,
+		"name" : "Hellstar Sweater (LOTS OF HELLSTAR AT THIS LINK)",
+		"brand" : "other",
+		"type" : "sweaters",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01VFq38n29CFfqXSw9Y_!!2214503998031-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/lRJ1bZ58",
+		"price" : 20.77
+	},
+	{
+		"id" : 89,
+		"name" : "Hellstar Racing Hoodie ",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Mtgv7729CFgM7ZOJw_!!2214503998031-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/lRJ1bZ58",
+		"price" : 25.22
+	},
+	{
+		"id" : 90,
+		"name" : "Denim Tears Hoodie (Lots of colors and pants too)",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2247438892/O1CN01k5ZrTl2FYaabSMO6L_!!2247438892.jpg",
+		"product_link" : "https://hoobuy.cc/zXv190xR",
+		"price" : 22.11
+	},
+	{
+		"id" : 91,
+		"name" : "Hellstar Long Sleeve",
+		"brand" : "other",
+		"type" : "sweaters",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01ZtHh1b29CFfgPMrgM_!!2214503998031-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/lRJ1bZ58",
+		"price" : 20.77
+	},
+	{
+		"id" : 92,
+		"name" : "Celine Hoodie (Budget, size up short sleeve length)",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Yc0RqM1rvu03AWqND_!!3927605694-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/LRGzjVK8",
+		"price" : 10.50
+	},
+	{
+		"id" : 93,
+		"name" : "Embroidered Trapstar Hoodies",
+		"brand" : "trapstar",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN014URwqN1MRu4aqBa2h_!!2210988121432-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/VRNNl5lR",
+		"price" : 13.35
+	},
+	{
+		"id" : 94,
+		"name" : "Trapstar Sweats",
+		"brand" : "trapstar",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01EEQYEM1MRu4YNRnh7_!!2210988121432-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/VRNNl5lR",
+		"price" : 13.35
+	},
+	{
+		"id" : 95,
+		"name" : "Amiri Jeans (lots of styles)",
+		"brand" : "amiri",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/imgextra/i3/196547524/O1CN01i9sIG225S2wx5OSTw_!!196547524.jpg",
+		"product_link" : "https://hoobuy.cc/NXb14MlR",
+		"price" : 16.17
+	},
+	{
+		"id" : 96,
+		"name" : "Budget Nike  Tech Sweats",
+		"brand" : "nike",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2640300732/O1CN01GQYNGI1HHIh0RtMRu_!!2640300732.jpg",
+		"product_link" : "https://hoobuy.cc/NRdA3jyX",
+		"price" : 14.09
+	},
+	{
+		"id" : 97,
+		"name" : "Dsquared Jeans",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/12000488911_1757643039.jpg",
+		"product_link" : "https://hoobuy.cc/JEPq9Pg8",
+		"price" : 12.02
+	},
+	{
+		"id" : 98,
+		"name" : "Carhartt Cargo",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://gw.alicdn.com/bao/uploaded/i2/3247304502/O1CN01EhXDRH1j7xeTuk0fm_!!3247304502.jpg",
+		"product_link" : "https://hoobuy.cc/mXY60wdE",
+		"price" : 19.29
+	},
+	{
+		"id" : 99,
+		"name" : "Sp5der P!nk Sweats",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2153207958/O1CN01h6VByF28eolMB8zRo_!!2153207958.jpg",
+		"product_link" : "https://hoobuy.cc/rE09eYY8",
+		"price" : 16.32
+	},
+	{
+		"id" : 100,
+		"name" : "Young LA Sweats (Size up, multiple colors)",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : null,
+		"product_link" : "https://hoobuy.cc/YRqB1prX",
+		"price" : 14.69
 	}
 ]
