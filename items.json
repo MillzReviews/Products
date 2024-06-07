@@ -236,7 +236,7 @@
 	{
 		"id" : 27,
 		"name" : "Hellstar records tee retro black",
-		"brand" : "other",
+		"brand" : "hellstar",
 		"type" : "tee",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2247438892/O1CN01OB1FK12FYaeaXcxeH_!!2247438892.jpg",
 		"product_link" : "https://hoobuy.cc/4RrZVYPR",
@@ -245,7 +245,7 @@
 	{
 		"id" : 28,
 		"name" : "Hellstar records brown tee",
-		"brand" : "other",
+		"brand" : "hellstar",
 		"type" : "tee",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2911353512/O1CN01oUoUka1boXrCGcwZY_!!2911353512.jpg",
 		"product_link" : "https://hoobuy.cc/5EAxoMNX",
@@ -470,7 +470,7 @@
 	{
 		"id" : 53,
 		"name" : "Rhude paisley print shorts",
-		"brand" : "other",
+		"brand" : "rhude",
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/wdseller1391271756-37b6000001884987159d0a20e2c5_1182_1182.jpg",
 		"product_link" : "https://hoobuy.cc/MXzAgzGR",
@@ -479,7 +479,7 @@
 	{
 		"id" : 54,
 		"name" : "Rhude zipper shorts",
-		"brand" : "other",
+		"brand" : "rhude",
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem1375395368-111a0000017ea52075cd0a20e2c5_649_649.jpg",
 		"product_link" : "https://hoobuy.cc/w8oVgqeE",
@@ -731,7 +731,7 @@
 	{
 		"id" : 82,
 		"name" : "Hellstar Hoodie (budget)",
-		"brand" : "other",
+		"brand" : "hellstar",
 		"type" : "hoodies",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2075710764/O1CN01G0G0D41HVxQXeWUgy_!!2075710764.jpg",
 		"product_link" : "https://hoobuy.cc/mXY60JdE",
@@ -749,7 +749,7 @@
 	{
 		"id" : 84,
 		"name" : "Sp5der P!nk Hoodie (Pika)",
-		"brand" : "other",
+		"brand" : "Sp5der",
 		"type" : "hoodies",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2153207958/O1CN01x4hC5s28eokr3iDa5_!!2153207958.jpg",
 		"product_link" : "https://hoobuy.cc/0R7YLNxE",
@@ -794,7 +794,7 @@
 	{
 		"id" : 89,
 		"name" : "Hellstar Racing Hoodie ",
-		"brand" : "other",
+		"brand" : "hellstar",
 		"type" : "hoodies",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Mtgv7729CFgM7ZOJw_!!2214503998031-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/lRJ1bZ58",
@@ -812,7 +812,7 @@
 	{
 		"id" : 91,
 		"name" : "Hellstar Long Sleeve",
-		"brand" : "other",
+		"brand" : "hellstar",
 		"type" : "sweaters",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01ZtHh1b29CFfgPMrgM_!!2214503998031-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/lRJ1bZ58",
@@ -875,7 +875,7 @@
 	{
 		"id" : 98,
 		"name" : "Carhartt Cargo",
-		"brand" : "other",
+		"brand" : "carhartt",
 		"type" : "pants",
 		"image_url" : "https://gw.alicdn.com/bao/uploaded/i2/3247304502/O1CN01EhXDRH1j7xeTuk0fm_!!3247304502.jpg",
 		"product_link" : "https://hoobuy.cc/mXY60wdE",
@@ -884,7 +884,7 @@
 	{
 		"id" : 99,
 		"name" : "Sp5der P!nk Sweats",
-		"brand" : "other",
+		"brand" : "sp5der",
 		"type" : "pants",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2153207958/O1CN01h6VByF28eolMB8zRo_!!2153207958.jpg",
 		"product_link" : "https://hoobuy.cc/rE09eYY8",
@@ -898,5 +898,383 @@
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/17380869536/O1CN01pQkAVb2KJXf7N8C7h_!!17380869536.jpg",
 		"product_link" : "https://hoobuy.cc/YRqB1prX",
 		"price" : 14.69
+	},
+	{
+		"id" : 101,
+		"name" : "TNF Windbreaker (Budget)",
+		"brand" : "TNF",
+		"type" : "jackets",
+		"image_url" : "https://m.media-amazon.com/images/I/71hRmsgDczL._AC_SY445_.jpg",
+		"product_link" : "https://hoobuy.cc/A8aVaGOR",
+		"price" : 15.18
+	},
+	{
+		"id" : 102,
+		"name" : "TNF Windbreaker",
+		"brand" : "TNF",
+		"type" : "vests",
+		"image_url" : "https://is4.revolveassets.com/images/p4/n/uv/TACF-MO74_V1.jpg",
+		"product_link" : "https://hoobuy.cc/K8WGY168",
+		"price" : 21.30
+	},
+	{
+		"id" : 103,
+		"name" : "Essentials Puffer",
+		"brand" : "Essentials",
+		"type" : "jackets",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01AiUJ052ITxNiftyEv_!!3446329288-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/4RrZVQZR",
+		"price" : 25.96
+	},
+	{
+		"id" : 104,
+		"name" : "Kaws X Human Made Varsity Jacket",
+		"brand" : "other",
+		"type" : "varsitys",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/518258778/O1CN01y1MzI82EiNROlbTDz_!!518258778.jpg",
+		"product_link" : "https://hoobuy.cc/yEkpMx28",
+		"price" : 35.31
+	},
+	{
+		"id" : 105,
+		"name" : "Budget Nike Puffer",
+		"brand" : "nike",
+		"type" : "jackets",
+		"image_url" : "https://www.dtlr.com/cdn/shop/products/Nike-FB7368-010-M-Puffer-067.jpg?v=1699990001",
+		"product_link" : "https://hoobuy.cc/w8oVOWaE",
+		"price" : 24.39
+	},
+	{
+		"id" : 106,
+		"name" : "Offwhite Windbreaker",
+		"brand" : "offwhite",
+		"type" : "jackets",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01HbXFqB1f4WQrYNP7v_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/AXn2v41X",
+		"price" : 6.38
+	},
+	{
+		"id" : 107,
+		"name" : "ASSC Windbreaker",
+		"brand" : "other",
+		"type" : "jackets",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN019V25D71f4WXWPM8o7_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/AXn2v41X",
+		"price" : 6.38
+	},
+	{
+		"id" : 108,
+		"name" : "Kaws Figures",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/3040960195/O1CN01VsdxG81DJM81mLbVr_!!3040960195.jpg",
+		"product_link" : "https://hoobuy.cc/lRJ1ba58",
+		"price" : Varies
+	},
+	{
+		"id" : 109,
+		"name" : "Shoe Crease Protectors",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/779954791/O1CN01XHTl8Z1lGKJwHLx3B_!!779954791.jpg",
+		"product_link" : "https://hoobuy.cc/zXv19jxR",
+		"price" : 1.94
+	},
+	{
+		"id" : 110,
+		"name" : "Kaws Keychains",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2002651306/O1CN010Q1Kfr1LWBnbWefz1_!!https://img.alicdn.com/bao/uploaded/i3/2002651306/O1CN01t8WFa81LWBng0WAmm_!!2002651306.jpg",
+		"product_link" : "https://hoobuy.cc/2X6BmKGX",
+		"price" : .42
+	},
+	{
+		"id" : 111,
+		"name" : "Offwhite Belt",
+		"brand" : "offwhite",
+		"type" : "belts",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/49221448/O1CN01mKVPb81MZEJTzZ8kM_!!49221448.jpg",
+		"product_link" : "https://hoobuy.cc/lXQqDMwX",
+		"price" : 8.69
+	},
+	{
+		"id" : 112,
+		"name" : "Merakami Pillow",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/ca666418ca74108c9abb4d498e60aa06.jpg",
+		"product_link" : "https://hoobuy.cc/bELL2eLE",
+		"price" : 9.20
+	},
+	{
+		"id" : 113,
+		"name" : "Trapstar Shoulder Bag",
+		"brand" : "trapstar",
+		"type" : "bags",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2215987496622/O1CN01c8zIov1ymvauTib8P_!!2215987496622.jpg",
+		"product_link" : "https://hoobuy.cc/YEw6ypbX",
+		"price" : 5.18
+	},
+	{
+		"id" : 114,
+		"name" : "Stussy Wallet (multiple varieties)",
+		"brand" : "stussy",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/imgextra/i3/2212851127290/O1CN01AVGjMp23is8wSdy4s_!!2212851127290.jpg",
+		"product_link" : "https://hoobuy.cc/A8aVMkBR",
+		"price" : 2.97
+	},
+	{
+		"id" : 115,
+		"name" : "Gucci Wallets",
+		"brand" : "gucci",
+		"type" : "other",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/2020/308/739/17067937803_15435789.jpg",
+		"product_link" : "https://hoobuy.cc/j84KBDkE",
+		"price" : 2.52
+	},
+	{
+		"id" : 116,
+		"name" : "LV Wallets",
+		"brand" : "louisvuitton",
+		"type" : "other",
+		"image_url" : "https://si.geilicdn.com/wdseller169153426-4802000001872c2910950a2313df_2560_1920.jpg",
+		"product_link" : "https://hoobuy.cc/PR3Do92X",
+		"price" : 3.41
+	},
+	{
+		"id" : 117,
+		"name" : "CDG Play beanies",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://hoobuy.cc/L8Byl95E",
+		"product_link" : "https://hoobuy.cc/L8Byl95E",
+		"price" : 2.21
+	},
+	{
+		"id" : 118,
+		"name" : "KAWS Mousepad",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/imgextra/i1/3462592616/O1CN01HJWbCT1VCApsgHv7P_!!3462592616-0-lubanu-s.jpg",
+		"product_link" : "https://hoobuy.cc/VRNNqnpR",
+		"price" : 2.05
+	},
+	{
+		"id" : 119,
+		"name" : "Offwhite Sunglasses",
+		"brand" : "offwhite",
+		"type" : "glasses",
+		"image_url" : "https://img.alicdn.com/imgextra/i4/2578620230/O1CN01UjRdio1DZNpo1dcwF_!!2578620230.jpg",
+		"product_link" : "https://hoobuy.cc/AXn2zqqX",
+		"price" : 1.48
+	},
+	{
+		"id" : 120,
+		"name" : "Spiderman Mask",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2253677575/O1CN014GNMT425pOzoC1r81_!!2253677575.jpg",
+		"product_link" : "https://hoobuy.cc/5EAxKZ7X",
+		"price" : 3.98
+	},
+	{
+		"id" : 121,
+		"name" : "Black Balaclava",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2253677575/O1CN01TSdIt325pOzm4KhJU_!!2253677575.jpg",
+		"product_link" : "https://hoobuy.cc/5EAxKZ7X",
+		"price" : 2.94
+	},
+	{
+		"id" : 122,
+		"name" : "Supreme x Kermit the Frog plushie",
+		"brand" : "supreme",
+		"type" : "other",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/32696866/O1CN01WAmudx20ag90jDlTV_!!32696866.jpg",
+		"product_link" : "https://hoobuy.cc/zXv1qPZR",
+		"price" : 5.82
+	},
+	{
+		"id" : 123,
+		"name" : "Carhartt Beanies (20 colors)",
+		"brand" : "carhartt",
+		"type" : "other",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN0183v63C217CJ3hlLbG_!!2215161356937-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/LRGzdxY8",
+		"price" : 2.23
+	},
+	{
+		"id" : 124,
+		"name" : "TNF Gloves",
+		"brand" : "tnf",
+		"type" : "other",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/2018/490/410/9292014094_2018113468.jpg",
+		"product_link" : "https://hoobuy.cc/2X6BnGgX",
+		"price" : 3.26
+	},
+	{
+		"id" : 125,
+		"name" : "Merakami Spinning Necklace",
+		"brand" : "other",
+		"type" : "jewelry",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/1736589829/O1CN016zwvLX2MTjm9wWblf_!!1736589829.jpg",
+		"product_link" : "https://hoobuy.cc/w8owbqy8",
+		"price" : 3.26
+	},
+	{
+		"id" : 126,
+		"name" : "Palm Angels Tees",
+		"brand" : "palmangels",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/pcitem1697417568-0e330000018e9caa5bb60a231418_600_600.jpg",
+		"product_link" : "https://hoobuy.cc/L8Bd69zX",
+		"price" : 14.69
+	},
+	{
+		"id" : 127,
+		"name" : "Gucci Sunglasses",
+		"brand" : "gucci",
+		"type" : "glasses",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01kSbAHr1s5WLTjvCLQ_!!2887695715-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/AXnwVA5E",
+		"price" : 1.93
+	},
+	{
+		"id" : 128,
+		"name" : "Chrome Hearts Shorts",
+		"brand" : "chromehearts",
+		"type" : "shorts",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/4e7b30c4cbcef5e0caeec47bd6b1ce66.jpg",
+		"product_link" : "https://hoobuy.cc/BE9zpG38",
+		"price" : 20.62
+	},
+	{
+		"id" : 129,
+		"name" : "Budget EE Shorts",
+		"brand" : "other",
+		"type" : "shorts",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/133780852001/O1CN01Ol7ebX1QeVIDgRN5k_!!133780852001.jpg",
+		"product_link" : "https://hoobuy.cc/4RrBO9ZR",
+		"price" : 4.45
+	},
+	{
+		"id" : 130,
+		"name" : "Represent Tank",
+		"brand" : "represent",
+		"type" : "other shirts",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2247438892/O1CN010y4Pt72FYaZZKPgy4_!!2247438892.jpg",
+		"product_link" : "https://hoobuy.cc/6ED2kPoR",
+		"price" : 13.35
+	},
+	{
+		"id" : 131,
+		"name" : "Supreme Tees",
+		"brand" : "supreme",
+		"type" : "tees",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01qa9RKR24kzi3Uo2jv_!!2216515117430-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/zXvO2PvE",
+		"price" : 10.09
+	},
+	{
+		"id" : 132,
+		"name" : "Budget LV Belt",
+		"brand" : "louisvuitton",
+		"type" : "belts",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Hci9F31gRiGUOcPE9_!!2217478184139-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/Z8MLmegE",
+		"price" : 1.78
+	},
+	{
+		"id" : 133,
+		"name" : "Denver Nuggets Jerseys",
+		"brand" : "nike",
+		"type" : "jerseys",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/65046284/O1CN011WT7k01wI7cJL75Ms_!!65046284.jpg",
+		"product_link" : "https://hoobuy.cc/7EjLgqAR",
+		"price" : 12.61
+	},
+	{
+		"id" : 134,
+		"name" : "Spiderman Lightup Mask (others that move more $)",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01OGKEOQ2JMShFA7C7P_!!2216656829407-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/LRG4LbKX",
+		"price" : 4.12
+	},
+	{
+		"id" : 135,
+		"name" : "Drake for all the dogs tee",
+		"brand" : "other",
+		"type" : "other",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01W7AIlg1WTrxLMafc7_!!2209165032790-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/QX1KZlL8",
+		"price" : 8.75
+	},
+	{
+		"id" : 136,
+		"name" : "Carhartt Utility Bag",
+		"brand" : "Carhartt",
+		"type" : "other",
+		"image_url" : "https://hoobuy.cc/38V5QNzE",
+		"product_link" : "https://hoobuy.cc/38V5QNzE",
+		"price" : 1.85
+	},
+	{
+		"id" : 137,
+		"name" : "Pixel Heart Sunglasses",
+		"brand" : "other",
+		"type" : "glasses",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01qoW1mF1iVUaKX8NU5_!!2201211024418-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/zXvOpxOE",
+		"price" : 1.48
+	},
+	{
+		"id" : 138,
+		"name" : "Hellstar Shorts",
+		"brand" : "hellstar",
+		"type" : "shorts",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01RN3rl71yRP49NTMWD_!!2212490836575-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/LRG49x6X",
+		"price" : 11.13
+	},
+	{
+		"id" : 139,
+		"name" : "Budget Football/Soccer Jerseys/Short set",
+		"brand" : "other",
+		"type" : "jerseys",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01DZtwYw1m65A1k8x5K_!!2379634904-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/38V5oNDE",
+		"price" : 5.42
+	},
+	{
+		"id" : 140,
+		"name" : "Chrome Hearts Tee",
+		"brand" : "chromehearts",
+		"type" : "tees",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/1953459880/O1CN014QcBGH2Mr5tifslz3_!!0-item_pic.jpg",
+		"product_link" : "https://hoobuy.cc/vXpvVWZ8",
+		"price" : 10.09
+	},
+	{
+		"id" : 141,
+		"name" : "Essentials Sweats (High quality)",
+		"brand" : "essentials",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/706735422/O1CN01uj9QJ31pvKAi66Iyn_!!706735422.jpg",
+		"product_link" : "https://hoobuy.cc/mXYYOQQX",
+		"price" : 26.41
+	},
+	{
+		"id" : 142,
+		"name" : "ASSC Budget Hoodies",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "",
+		"product_link" : "https://hoobuy.cc/082KDW5R",
+		"price" : 5.92
 	}
 ]
