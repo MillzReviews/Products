@@ -1276,5 +1276,32 @@
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/3303132177/O1CN01TqGMWz1Rx71BPNVsX_!!3303132177.jpg",
 		"product_link" : "https://hoobuy.cc/082KDW5R",
 		"price" : 5.92
+	},
+	{
+		"id" : 143,
+		"name" : "Jordan Shorts (many black or white base color styles)",
+		"brand" : "nike",
+		"type" : "shorts",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Fe0FKP1Bs2x939tcR_!!0-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/5EAwGMDR",
+		"price" :  5.64
+	},
+	{
+		"id" : 144,
+		"name" : "Jordan Shorts (multiple colorways)",
+		"brand" : "nike",
+		"type" : "shorts",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01NTKslS1kPewFo6cXN_!!2216941064676-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/38V5Q9ME",
+		"price" : 6.68
+	},
+	{
+		"id" : 145,
+		"name" : "Dsquared Icon Jeans",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01i8GMEQ1YURfSPtCXE_!!2214147753062-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/PEZO1pV8",
+		"price" : 12.17
 	}
 ]
