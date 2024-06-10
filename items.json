@@ -624,7 +624,7 @@
 		"id" : 70,
 		"name" : "TNF Backpack",
 		"brand" : "TNF",
-		"type" : "bags",
+		"type" : "bag",
 		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/a4472639a6718680b26166154ae30423.jpg",
 		"product_link" : "https://hoobuy.cc/7EjLN3yR",
 		"price" : 14.69
@@ -633,7 +633,7 @@
 		"id" : 71,
 		"name" : "Bape Shoulder Bag",
 		"brand" : "bape",
-		"type" : "bags",
+		"type" : "bag",
 		"image_url" : "https://si.geilicdn.com/pcitem901862182754-35870000018fc2199b360a23111a_1080_1080.jpg",
 		"product_link" : "https://hoobuy.cc/nE5PLzMX",
 		"price" : 10.09
@@ -749,7 +749,7 @@
 	{
 		"id" : 84,
 		"name" : "Sp5der P!nk Hoodie (Pika)",
-		"brand" : "Sp5der",
+		"brand" : "spider",
 		"type" : "hoodies",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2153207958/O1CN01x4hC5s28eokr3iDa5_!!2153207958.jpg",
 		"product_link" : "https://hoobuy.cc/0R7YLNxE",
@@ -884,7 +884,7 @@
 	{
 		"id" : 99,
 		"name" : "Sp5der P!nk Sweats",
-		"brand" : "sp5der",
+		"brand" : "spider",
 		"type" : "pants",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2153207958/O1CN01h6VByF28eolMB8zRo_!!2153207958.jpg",
 		"product_link" : "https://hoobuy.cc/rE09eYY8",
@@ -1011,7 +1011,7 @@
 		"id" : 113,
 		"name" : "Trapstar Shoulder Bag",
 		"brand" : "trapstar",
-		"type" : "bags",
+		"type" : "bag",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2215987496622/O1CN01c8zIov1ymvauTib8P_!!2215987496622.jpg",
 		"product_link" : "https://hoobuy.cc/YEw6ypbX",
 		"price" : 5.18
@@ -1048,7 +1048,7 @@
 		"name" : "CDG Play beanies",
 		"brand" : "other",
 		"type" : "other",
-		"image_url" : "https://hoobuy.cc/L8Byl95E",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01HmFYKo25yZ012TNKM_!!2214850517595-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/L8Byl95E",
 		"price" : 2.21
 	},
@@ -1191,7 +1191,7 @@
 		"id" : 133,
 		"name" : "Denver Nuggets Jerseys",
 		"brand" : "nike",
-		"type" : "jerseys",
+		"type" : "jersey",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/65046284/O1CN011WT7k01wI7cJL75Ms_!!65046284.jpg",
 		"product_link" : "https://hoobuy.cc/7EjLgqAR",
 		"price" : 12.61
@@ -1245,7 +1245,7 @@
 		"id" : 139,
 		"name" : "Budget Football/Soccer Jerseys/Short set",
 		"brand" : "other",
-		"type" : "jerseys",
+		"type" : "jersey",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01DZtwYw1m65A1k8x5K_!!2379634904-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/38V5oNDE",
 		"price" : 5.42
@@ -1353,7 +1353,7 @@
 		"id" : 151,
 		"name" : "Rhude Shorts",
 		"brand" : "rhude",
-		"type" : null,
+		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6d160000018f12edb5010a23038e_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
 		"price" : 13.20
@@ -1362,7 +1362,7 @@
 		"id" : 152,
 		"name" : "Cortiez Shorts",
 		"brand" : "corteiz",
-		"type" : null,
+		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901866624056-3b130000018fe64d49930a21146b_1920_1920.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
 		"price" : 13.20
@@ -1371,7 +1371,7 @@
 		"id" : 153,
 		"name" : "Stone Island Shorts",
 		"brand" : "other",
-		"type" : null,
+		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6f780000018f12edc85f0a230115_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
 		"price" : 13.20
@@ -1380,9 +1380,441 @@
 		"id" : 154,
 		"name" : "Minus Two Shorts",
 		"brand" : "minustwo",
-		"type" : null,
+		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6e730000018f12edcccd0a81347d_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
 		"price" : 13.20
+	},
+	{
+		"id" : 155,
+		"name" : "Stussy x Nike Sweats",
+		"brand" : "stussy",
+		"type" : "pants",
+		"image_url" : "https://si.geilicdn.com/pcitem1383476083-5afd0000018e09cdbaac0a23132e_1080_812.jpg",
+		"product_link" : "https://hoobuy.cc/6EDzGOoR",
+		"price" : 16.32
+	},
+	{
+		"id" : 156,
+		"name" : "Nike Tech Fleece Set",
+		"brand" : "nike",
+		"type" : "set",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01jse5TF1ey73XBzWDy_!!2217351923939-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/PEZOawV8",
+		"price" : 23.74
+	},
+	{
+		"id" : 157,
+		"name" : "Budget Sp5der Atlanta Hoodie",
+		"brand" : "spider",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN015yVrQD1f4WYmAnPQO_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 13.95
+	},
+	{
+		"id" : 158,
+		"name" : "Budget Sp5der 555 tees",
+		"brand" : "spider",
+		"type" : "tees",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN015yVrQD1f4WYmAnPQO_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 6.82 
+	},
+	{
+		"id" : 159,
+		"name" : "Budget Sp5der Hoodies",
+		"brand" : "spider",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Txtrvl1f4WWRxKbCl_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 13.95
+	},
+	{
+		"id" : 160,
+		"name" : "Budget Sp5der Sweats",
+		"brand" : "spider",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN019qhgJo1f4WYDqqzRs_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 13.95
+	},
+	{
+		"id" : 161,
+		"name" : "Budget Sp5der Pink Hoodie",
+		"brand" : "spider",
+		"type" : "hoodies",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01itsGqB1f4WWUYOunL_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 13.95
+	},
+	{
+		"id" : 162,
+		"name" : "Budget Sp5der Pink Sweats",
+		"brand" : "spider",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01BIHBSn1f4WWVj3dmJ_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 13.95
+	},
+	{
+		"id" : 163,
+		"name" : "Budget Puff Print Sp5der tee",
+		"brand" : "spider",
+		"type" : "tees",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01l6vGKi1f4WYyCGigl_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 7.12
+	},
+	{
+		"id" : 164,
+		"name" : "Juice Wrld x Sp5der Tee",
+		"brand" : "spider",
+		"type" : "tees",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01t3PCeT1f4WZ0YqaZP_!!2214425623953-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YEwAMzbR",
+		"price" : 7.12
+	},
+	{
+		"id" : 165,
+		"name" : "Trapstar puff jacket",
+		"brand" : "trapstar",
+		"type" : "jackets",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01qJYVgB28DL3TXtHyX_!!2216811527898-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/JEPLopJE",
+		"price" : 50.45
+	},
+	{
+		"id" : 166,
+		"name" : "Nike Big Swoosh Fleece",
+		"brand" : "nike",
+		"type" : "jacket",
+		"image_url" : "https://gw.alicdn.com/bao/uploaded/i4/2214153134653/O1CN01cHuKyb1kF7gkXRSrL_!!2214153134653.jpg",
+		"product_link" : "https://hoobuy.cc/YRqLKna8",
+		"price" : 20.47
+	},
+	{
+		"id" : 167,
+		"name" : "Budget Canada Goose Vest",
+		"brand" : "other",
+		"type" : "vests",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01jkR9fe1yJcHkSLsqR_!!2216558146558-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/bELN03dR",
+		"price" : 24.93
+	},
+	{
+		"id" : 168,
+		"name" : "Dyson Hairdryer",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/wdseller1736228097-598e0000018e0006f4500a20e7c7_550_634.jpg",
+		"product_link" : "https://hoobuy.cc/0R79z0KE",
+		"price" : 94.96
+	},
+	{
+		"id" : 169,
+		"name" : "LV Bracelet",
+		"brand" : "louisvitton",
+		"type" : "jewelry",
+		"image_url" : "https://si.geilicdn.com/weidian1389731658-432200000186106184d70a231179_1080_810.jpg",
+		"product_link" : "https://hoobuy.cc/K8WV637E",
+		"price" : 15.70
+	},
+	{
+		"id" : 170,
+		"name" : "Budget LV Trio Bag",
+		"brand" : "louisvitton",
+		"type" : "bag",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/238d7bb1f0040021d80dfe6e770655b4.jpg",
+		"product_link" : "https://hoobuy.cc/PR3VzPQ8",
+		"price" : 7.12
+	},
+	{
+		"id" : 171,
+		"name" : "PS5 Controller",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/wdseller1736228097-77870000018e310dfe150a20e672_828_808.jpg",
+		"product_link" : "https://hoobuy.cc/4RrLbnmE",
+		"price" : 18.55
+	},
+	{
+		"id" : 172,
+		"name" : "Apple Watch",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/6b8c5ea7dabfec38f3da4c2469995f30.jpg",
+		"product_link" : "https://hoobuy.cc/L8B423JX",
+		"price" : 31.16
+	},
+	{
+		"id" : 173,
+		"name" : "JBL Flip 5",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/pcitem1822945068-30c30000018f96051a400a20e7c7-unadjust_1380_1380.png",
+		"product_link" : "https://hoobuy.cc/5EABq338",
+		"price" : 14.84
+	},
+	{
+		"id" : 174,
+		"name" : "JBL Flip 6",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/pcitem1822945068-312f0000018f96054a020a20e284_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/5EABq338",
+		"price" : 16.32
+	},
+	{
+		"id" : 175,
+		"name" : "JBL Pulse 5",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/pcitem1822945068-32250000018f960716a20a8134f0_750_750.jpg",
+		"product_link" : "https://hoobuy.cc/5EABq338",
+		"price" : 22.26
+	},
+	{
+		"id" : 176,
+		"name" : "JBL Pulse 6",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/pcitem1822945068-32430000018f9605db550a2396f4_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/5EABq338",
+		"price" : 25.22
+	},
+	{
+		"id" : 177,
+		"name" : "JBL Boom Box",
+		"brand" : "other",
+		"type" : "electronics",
+		"image_url" : "https://si.geilicdn.com/pcitem1822945068-31770000018f960756170a20e273_640_426.jpg",
+		"product_link" : "https://hoobuy.cc/5EABq338",
+		"price" : 44.51
+	},
+	{
+		"id" : 178,
+		"name" : "Ralph Lauren Polo",
+		"brand" : "polo",
+		"type" : "polo",
+		"image_url" : "https://si.geilicdn.com/pcitem227764523-70300000018fc539175c0a2304aa_1200_1200.jpg",
+		"product_link" : "https://hoobuy.cc/lXQZNv1E",
+		"price" : 20.47
+	},
+	{
+		"id" : 179,
+		"name" : "Ralph Lauren Jersey Polo",
+		"brand" : "polo",
+		"type" : "polo",
+		"image_url" : "https://si.geilicdn.com/pcitem227764523-645b0000018faf1a45ff0a20e284_1280_1919.jpg",
+		"product_link" : "https://hoobuy.cc/Z8M24kzR",
+		"price" : 13.06
+	},
+	{
+		"id" : 180,
+		"name" : "Soccer/Football Jerseys with name set",
+		"brand" : "other",
+		"type" : "jersey",
+		"image_url" : "https://si.geilicdn.com/pcitem901859836329-1e4b0000018f9f1348b70a210349-unadjust_1200_1200.png",
+		"product_link" : "https://hoobuy.cc/BE9kYgPR",
+		"price" : 18.55
+	},
+	{
+		"id" : 181,
+		"name" : "Nike Backpack (many colors)",
+		"brand" : "nike",
+		"type" : "bag",
+		"image_url" : "https://si.geilicdn.com/pcitem901860298948-262e0000018fb816c58b0a210256_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/6EDN4gzR",
+		"price" : 13.20
+	},
+	{
+		"id" : 182,
+		"name" : "Bape Backpack",
+		"brand" : "bape",
+		"type" : "bag",
+		"image_url" : "https://si.geilicdn.com/open1851482041-1234478995-0d220000018f4d8bc31f0a239383_666_562.jpg",
+		"product_link" : "https://hoobuy.cc/6EDN4gzR",
+		"price" : 8.61
+	},
+	{
+		"id" : 183,
+		"name" : "Budget Yeezy 350",
+		"brand" : "yeezy",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-0e1d0000018f256fd98a0a239383_900_675.jpg",
+		"product_link" : "https://hoobuy.cc/LXy3jO48",
+		"price" : 26.71
+	},
+	{
+		"id" : 184,
+		"name" : "Budget Yeezy Foamrunner",
+		"brand" : "yeezy",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem901857861682-28be0000018f764004ad0a2304aa_900_675.jpg",
+		"product_link" : "https://hoobuy.cc/LXy3jO48",
+		"price" : 14.69
+	},
+	{
+		"id" : 185,
+		"name" : "Yeezy Slides",
+		"brand" : "yeezy",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem901857861682-248d0000018f762fee1e0a2301b4_900_675.jpg",
+		"product_link" : "https://hoobuy.cc/LXy3jO48",
+		"price" : 14.69
+	},
+	{
+		"id" : 186,
+		"name" : "Denim Tears Hoodie/Sweats Set",
+		"brand" : "other",
+		"type" : "set",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-77570000018f22702f5a0a8115b5-unadjust_800_800.png",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 44.36
+	},
+	{
+		"id" : 187,
+		"name" : "Denim Tears Tee/Shorts Set",
+		"brand" : "other",
+		"type" : "set",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-201e0000018f22702a940a239631_1920_1920.jpg",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 29.53
+	},
+	{
+		"id" : 188,
+		"name" : "Denim Tears Hoodie",
+		"brand" : "other",
+		"type" : "hoodies",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-63780000018f2270479b0a210559_800_600.jpg",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 29.53
+	},
+	{
+		"id" : 189,
+		"name" : "Denim Tears Tee",
+		"brand" : "other",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-35e60000018f2270bd9f0a239383_1920_1920.jpg",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 17.51
+	},
+	{
+		"id" : 190,
+		"name" : "Denim Tears Shorts",
+		"brand" : "other",
+		"type" : "shorts",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-418f0000018f2270a4640a210298_1500_1500.jpg",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 18.99
+	},
+	{
+		"id" : 191,
+		"name" : "Denim Tears Sweats",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://si.geilicdn.com/open1664375585-1234478995-41610000018f22704f4c0a210298_1500_1500.jpg",
+		"product_link" : "https://hoobuy.cc/w8oaBL4X",
+		"price" : 23.44
+	},
+	{
+		"id" : 192,
+		"name" : "Gallery Dept Tees",
+		"brand" : "other",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/pcitem901857861682-1cb30000018f7136a3810a23959c_2500_2500.jpg",
+		"product_link" : "https://hoobuy.cc/AXn60m9X",
+		"price" : 13.95
+	},
+	{
+		"id" : 193,
+		"name" : "Fendi Tees",
+		"brand" : "other",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/pcitem901857861682-1f200000018f713683240a8134f0_1080_1080.jpg",
+		"product_link" : "https://hoobuy.cc/AXn60m9X",
+		"price" : 13.95
+	},
+	{
+		"id" : 194,
+		"name" : "Stussy Tees (many styles)",
+		"brand" : "stussy",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/open1639122105-1234478995-71d80000018f0e3fc4c30a8133b5_1080_1074.jpg",
+		"product_link" : "https://hoobuy.cc/zXvLG6y8",
+		"price" : 12.76
+	},
+	{
+		"id" : 195,
+		"name" : "Corteiz Tee/Shorts Set (many)",
+		"brand" : "corteiz",
+		"type" : "set",
+		"image_url" : "https://si.geilicdn.com/pcitem1856336196-43290000018f93f1b5ec0a20e672_1440_1440.jpg",
+		"product_link" : "https://hoobuy.cc/7Ej6D2vE",
+		"price" : 13.20
+	},
+	{
+		"id" : 196,
+		"name" : "Bape Tee/Shorts Set",
+		"brand" : "bape",
+		"type" : "set",
+		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6bf10000018f7015dc650a2102c5_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/7Ej6D2vE",
+		"price" : 13.20
+	},
+	{
+		"id" : 197,
+		"name" : "Ralph Lauren Tees",
+		"brand" : "polo",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/pcitem901857164387-49c30000018f2e0562660a210349_1169_1169.jpg",
+		"product_link" : "https://hoobuy.cc/6XKVvgLR",
+		"price" : 20.03
+	},
+	{
+		"id" : 198,
+		"name" : "Ralph Lauren Polos",
+		"brand" : "polo",
+		"type" : "polo",
+		"image_url" : "https://si.geilicdn.com/pcitem901858295825-49c10000018f2e02e6ec0a2304aa_960_1200.jpg",
+		"product_link" : "https://hoobuy.cc/6XKVvgLR",
+		"price" : 20.03
+	},
+	{
+		"id" : 199,
+		"name" : "Off-White Tees",
+		"brand" : "offwhite",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/open1766521977-1234478995-6c5f0000018f5c27dcbc0a239631_640_640.jpg",
+		"product_link" : "https://hoobuy.cc/K8lvwqGX",
+		"price" : 14.53
+	},
+	{
+		"id" : 200,
+		"name" : "New Balance Shoes",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem1781761601-0cd30000018ceea577250a210349_800_800.jpg",
+		"product_link" : "https://hoobuy.cc/LRGb21N8",
+		"price" : 44.07
+	},
+	{
+		"id" : 201,
+		"name" : "Stone Island Pullovers",
+		"brand" : "other",
+		"type" : "sweaters",
+		"image_url" : "https://si.geilicdn.com/open1851482041-1234478995-1b4e0000018f4da13b9a0a8133b5-unadjust_421_421.png",
+		"product_link" : "https://hoobuy.cc/nE5kw2dR",
+		"price" : 24.93
+	},
+	{
+		"id" : 202,
+		"name" : "Adidas Samba",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01JcfPUf1bo5WnR5zcN_!!2215806143511-0-cib.jpg",
+		"product_link" : null,
+		"price" : 22.26
 	}
 ]
