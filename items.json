@@ -51,7 +51,7 @@
 		"type" : "shoes",
 		"image_url" : "https://si.geilicdn.com/wdseller1372944448-3afd000001851a8256800a22e39e_1512_1513.jpg",
 		"product_link" : "https://hoobuy.cc/rE09eqV8",
-		"price" : 54.90
+		"price" : 54.9
 	},
 	{
 		"id" : 7,
@@ -204,7 +204,7 @@
 		"type" : "tee",
 		"image_url" : "https://img.alicdn.com/imgextra/i2/2200795821294/O1CN01XsmBjT1LQhGfJDMiC_!!2200795821294.jpg",
 		"product_link" : "https://hoobuy.cc/bELLV9oE",
-		"price" : 4.30
+		"price" : 4.3
 	},
 	{
 		"id" : 24,
@@ -249,7 +249,7 @@
 		"type" : "tee",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2911353512/O1CN01oUoUka1boXrCGcwZY_!!2911353512.jpg",
 		"product_link" : "https://hoobuy.cc/5EAxoMNX",
-		"price" : 17.80
+		"price" : 17.8
 	},
 	{
 		"id" : 29,
@@ -465,7 +465,7 @@
 		"type" : "shorts",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2933817106/O1CN01w9PI0B22MbIj7WVs4_!!2933817106.jpg",
 		"product_link" : "https://hoobuy.cc/4RrZg3qR",
-		"price" : 13.80
+		"price" : 13.8
 	},
 	{
 		"id" : 53,
@@ -825,7 +825,7 @@
 		"type" : "hoodie",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Yc0RqM1rvu03AWqND_!!3927605694-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/LRGzjVK8",
-		"price" : 10.50
+		"price" : 10.5
 	},
 	{
 		"id" : 93,
@@ -915,7 +915,7 @@
 		"type" : "vests",
 		"image_url" : "https://is4.revolveassets.com/images/p4/n/uv/TACF-MO74_V1.jpg",
 		"product_link" : "https://hoobuy.cc/K8WGY168",
-		"price" : 21.30
+		"price" : 21.3
 	},
 	{
 		"id" : 103,
@@ -969,7 +969,7 @@
 		"type" : "other",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/3040960195/O1CN01VsdxG81DJM81mLbVr_!!3040960195.jpg",
 		"product_link" : "https://hoobuy.cc/lRJ1ba58",
-		"price" : 4.00
+		"price" : 4
 	},
 	{
 		"id" : 109,
@@ -1005,7 +1005,7 @@
 		"type" : "other",
 		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/ca666418ca74108c9abb4d498e60aa06.jpg",
 		"product_link" : "https://hoobuy.cc/bELL2eLE",
-		"price" : 9.20
+		"price" : 9.2
 	},
 	{
 		"id" : 113,
@@ -1029,7 +1029,7 @@
 		"id" : 115,
 		"name" : "Gucci Wallets",
 		"brand" : "gucci",
-		"type" : "other",
+		"type" : "wallet",
 		"image_url" : "https://global-img-cdn.1688.com/img/ibank/2020/308/739/17067937803_15435789.jpg",
 		"product_link" : "https://hoobuy.cc/j84KBDkE",
 		"price" : 2.52
@@ -1037,8 +1037,8 @@
 	{
 		"id" : 116,
 		"name" : "LV Wallets",
-		"brand" : "louis vitton",
-		"type" : "other",
+		"brand" : "lv",
+		"type" : "wallet",
 		"image_url" : "https://si.geilicdn.com/wdseller169153426-4802000001872c2910950a2313df_2560_1920.jpg",
 		"product_link" : "https://hoobuy.cc/PR3Do92X",
 		"price" : 3.41
@@ -1119,7 +1119,7 @@
 		"id" : 125,
 		"name" : "Merakami Spinning Necklace",
 		"brand" : "other",
-		"type" : "jewelry",
+		"type" : "jewelery",
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/1736589829/O1CN016zwvLX2MTjm9wWblf_!!1736589829.jpg",
 		"product_link" : "https://hoobuy.cc/w8owbqy8",
 		"price" : 3.26
@@ -1181,7 +1181,7 @@
 	{
 		"id" : 132,
 		"name" : "Budget LV Belt",
-		"brand" : "louis vitton",
+		"brand" : "lv",
 		"type" : "belt",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Hci9F31gRiGUOcPE9_!!2217478184139-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/Z8MLmegE",
@@ -1356,7 +1356,7 @@
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6d160000018f12edb5010a23038e_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 152,
@@ -1365,7 +1365,7 @@
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901866624056-3b130000018fe64d49930a21146b_1920_1920.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 153,
@@ -1374,7 +1374,7 @@
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6f780000018f12edc85f0a230115_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 154,
@@ -1383,7 +1383,7 @@
 		"type" : "shorts",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6e730000018f12edcccd0a81347d_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/2X6Dz3v8",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 155,
@@ -1419,7 +1419,7 @@
 		"type" : "tee",
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN015yVrQD1f4WYmAnPQO_!!2214425623953-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/YEwAMzbR",
-		"price" : 6.82 
+		"price" : 6.82
 	},
 	{
 		"id" : 159,
@@ -1514,16 +1514,16 @@
 	{
 		"id" : 169,
 		"name" : "LV Bracelet",
-		"brand" : "louisvitton",
-		"type" : "jewelry",
+		"brand" : "lv",
+		"type" : "jewelery",
 		"image_url" : "https://si.geilicdn.com/weidian1389731658-432200000186106184d70a231179_1080_810.jpg",
 		"product_link" : "https://hoobuy.cc/K8WV637E",
-		"price" : 15.70
+		"price" : 15.7
 	},
 	{
 		"id" : 170,
 		"name" : "Budget LV Trio Bag",
-		"brand" : "louisvitton",
+		"brand" : "lv",
 		"type" : "bag",
 		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/238d7bb1f0040021d80dfe6e770655b4.jpg",
 		"product_link" : "https://hoobuy.cc/PR3VzPQ8",
@@ -1626,7 +1626,7 @@
 		"type" : "bag",
 		"image_url" : "https://si.geilicdn.com/pcitem901860298948-262e0000018fb816c58b0a210256_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/6EDN4gzR",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 182,
@@ -1752,7 +1752,7 @@
 		"type" : "set",
 		"image_url" : "https://si.geilicdn.com/pcitem1856336196-43290000018f93f1b5ec0a20e672_1440_1440.jpg",
 		"product_link" : "https://hoobuy.cc/7Ej6D2vE",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 196,
@@ -1761,7 +1761,7 @@
 		"type" : "set",
 		"image_url" : "https://si.geilicdn.com/pcitem901857164387-6bf10000018f7015dc650a2102c5_800_800.jpg",
 		"product_link" : "https://hoobuy.cc/7Ej6D2vE",
-		"price" : 13.20
+		"price" : 13.2
 	},
 	{
 		"id" : 197,
@@ -1816,5 +1816,131 @@
 		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01JcfPUf1bo5WnR5zcN_!!2215806143511-0-cib.jpg",
 		"product_link" : "https://hoobuy.cc/NXbL7jO8",
 		"price" : 22.26
+	},
+	{
+		"id" : 203,
+		"name" : "Nike X NBA Tanks",
+		"brand" : "Nike",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/pcitem1423237814-270a00000189674060d80a8133ca_790_790.jpg",
+		"product_link" : "https://hoobuy.cc/NRddAQgR",
+		"price" : 4.09
+	},
+	{
+		"id" : 204,
+		"name" : "Budget Nike Tech Joggers",
+		"brand" : "Nike",
+		"type" : "pants",
+		"image_url" : "https://www.onenessboutique.com/cdn/shop/products/ONENESS_0004_NIKE-TECH-FLEECE-SWEAT-PANTS-BLACK-DQ4312-010_1100x.jpg?v=1661442366",
+		"product_link" : "https://hoobuy.cc/6ReLlGJ8",
+		"price" : 9.64
+	},
+	{
+		"id" : 205,
+		"name" : "Syna World Shorts and Tee Set",
+		"brand" : "other",
+		"type" : "set",
+		"image_url" : "https://si.geilicdn.com/wdseller1508878052-4b8f00000188d7ea950c0a23136c_1280_1599.jpg",
+		"product_link" : "https://hoobuy.cc/0824vxqX",
+		"price" : 38.58
+	},
+	{
+		"id" : 206,
+		"name" : "Jordan Socks (Random pack of 10)",
+		"brand" : "nike",
+		"type" : "underwear",
+		"image_url" : "https://si.geilicdn.com/wdseller1423237814-1e2100000189ca23005a0a21146b_1080_810.jpg",
+		"product_link" : "https://hoobuy.cc/MXzKAz1E",
+		"price" : 3.87
+	},
+	{
+		"id" : 207,
+		"name" : "Budget Nike Tees",
+		"brand" : "nike",
+		"type" : "tees",
+		"image_url" : "https://si.geilicdn.com/open1718816544-1234478995-167c0000018064d10aa90a2008af-unadjust_790_790.png",
+		"product_link" : "https://hoobuy.cc/rE0a9xA8",
+		"price" : 4.09
+	},
+	{
+		"id" : 208,
+		"name" : "Birkenstock Sandals",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01HRr5Yi1ovUe2C5Ubq_!!6000000005287-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/YRqLBql8",
+		"price" : 14.09
+	},
+	{
+		"id" : 209,
+		"name" : "Budget Carhartt Utility Bag",
+		"brand" : "carhartt",
+		"type" : "bag",
+		"image_url" : "https://global-img-cdn.1688.com/img/ibank/O1CN01tysIFy1yw5UIYLbGB_!!2213896196642-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/38V5QNzE",
+		"price" : 2.60
+	},
+	{
+		"id" : 210,
+		"name" : "Amiri Jeabs",
+		"brand" : "amiri",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2215854210395/O1CN015akXSC1EmxNEWEFm3_!!2215854210395.jpg",
+		"product_link" : "https://hoobuy.cc/LRGbz378",
+		"price" : 19.14
+	},
+	{
+		"id" : 211,
+		"name" : "Trapstar Vest",
+		"brand" : "trapstar",
+		"type" : "vest",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/9bb0803fa2c60385a5398a361b571275.jpg",
+		"product_link" : "https://hoobuy.cc/7Ej6jnyE",
+		"price" : 40.80
+	},
+	{
+		"id" : 212,
+		"name" : "Evisu Jeans (many styles)",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://cdn.static.hoobuy.com/pda/static/share_water/a76191ee4417510fe3b7ce691b8ce829.jpg",
+		"product_link" : "https://hoobuy.cc/NXbL1nQ8",
+		"price" : 23.44
+	},
+	{
+		"id" : 213,
+		"name" : "Christian Louboutin Spike Red Bottom (and others)",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/729315752/O1CN01Ko2eMl1sMSmvey7pU_!!729315752.jpg",
+		"product_link" : "https://hoobuy.cc/6XKVN3oR",
+		"price" : 35.31
+	},
+	{
+		"id" : 214,
+		"name" : "LV Trainer (many styles)",
+		"brand" : "lv",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem1803107048-47d30000018b23849a4b0a231179_750_1000.jpg",
+		"product_link" : "https://hoobuy.cc/bEmMBnQE",
+		"price" : 97.92
+	},
+	{
+		"id" : 215,
+		"name" : "LV Shorts (Many Styles)",
+		"brand" : "lv",
+		"type" : "shorts",
+		"image_url" : "https://si.geilicdn.com/pcitem1583459867-76eb0000018ecacb8ab20a8134f0-unadjust_800_800.png",
+		"product_link" : "https://hoobuy.cc/bELNL3wR",
+		"price" : 19.14
+	},
+	{
+		"id" : 216,
+		"name" : "Palm Angels Shorts (many styles)",
+		"brand" : "palmangels",
+		"type" : "shorts",
+		"image_url" : "",
+		"product_link" : "https://hoobuy.cc/YEwA6nqR",
+		"price" : 14.69
 	}
 ]
