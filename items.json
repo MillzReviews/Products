@@ -2157,6 +2157,51 @@
 		"type" : "hoodies",
 		"image_url" : "https://img.alicdn.com/imgextra/i3/2563446985/O1CN01r6Hf4o21TBPdMx1az_!!2563446985.png",
 		"product_link" : "https://hoobuy.cc/lRJNNZ5R",
-		"price" : null
+		"price" : 53.26
+	},
+	{
+		"id" : 241,
+		"name" : "Chrome Hearts Jeans",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01LfErix1wjbZqXNVzZ_!!2202185746344-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/BE9k0BNR",
+		"price" : 17.80
+	},
+	{
+		"id" : 242,
+		"name" : "Chrome Hearts Jean Shorts",
+		"brand" : "other",
+		"type" : "shorts",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN01Mvc9Im1wjbaiXsTE2_!!2202185746344-0-cib.jpg",
+		"product_link" : "https://hoobuy.cc/BE9k0BNR",
+		"price" : 13.35
+	},
+	{
+		"id" : 243,
+		"name" : "Hellstar Tees",
+		"brand" : "hellstar",
+		"type" : "tees",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2911353512/O1CN01qMfRsp1boXvg7dHy1_!!2911353512.jpg",
+		"product_link" : "https://hoobuy.cc/MXzKrZ1E",
+		"price" : 13.20
+	},
+	{
+		"id" : 244,
+		"name" : "Bape Tees",
+		"brand" : "bape",
+		"type" : "tees",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2207390554201/O1CN01qOewPJ1gu6kflLbht_!!2207390554201.jpg",
+		"product_link" : "https://hoobuy.cc/P8gQxlDX",
+		"price" : 8.61
+	},
+	{
+		"id" : 245,
+		"name" : "Bape Miami Jersey Tee",
+		"brand" : "bape",
+		"type" : "jersey",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2207390554201/O1CN012fIlAx1gu6kMasDRM_!!2207390554201.jpg",
+		"product_link" : "https://hoobuy.cc/P8gQxlDX",
+		"price" : 8.61
 	}
 ]
